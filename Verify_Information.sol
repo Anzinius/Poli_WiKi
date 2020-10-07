@@ -1,15 +1,8 @@
 pragma ^0.4.19;
 
-contract Read{
+import "./Make_Information.sol"
 
-    struct Person {
-        string name;
-        uint poli;
-    }
+contract VerifyInformation {
 
-    Person[] public people;        //public, private
-
-    function _read(uint _numInfo, uint _id, uint _poli) private returns (uint){
-        return _poli
-    }
+    
 }
