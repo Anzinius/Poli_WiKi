@@ -27,6 +27,5 @@ contract VerifyInformation {
         balanceOf[_to] += _value;
 
         emit Verify(msg.sender, _to, _value);
-    }
-    
+    }  
 }

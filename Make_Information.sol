@@ -22,10 +22,6 @@ contract MakeInformation{
         return Data[_key].info;
     }
 
-    // function checkBalance(uint _numInfo, uint _id) returns (uint){
-
-    // }
-
     function getPolitId(uint _key) public view returns (uint){
         return Data[_key].politId;
     }
