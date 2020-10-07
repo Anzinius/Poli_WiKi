@@ -6,21 +6,19 @@
 
 </br>
 
----
-
-### Service Process
+## Service Process
 
 <img src="README.assets/image-20201007230017907.png" alt="image-20201007230017907" style="zoom: 67%;" />
 
 </br>
 
-### System Structure
+## System Structure
 
 <img src="README.assets/image-20201007230055703.png" alt="image-20201007230055703" style="zoom:67%;" />
 
----
+</br>
 
-### Smart Contracts
+## Smart Contracts
 
 ![image-20201007230805376](README.assets/image-20201007230805376.png)![image-20201007230813241](README.assets/image-20201007230813241.png)
 
